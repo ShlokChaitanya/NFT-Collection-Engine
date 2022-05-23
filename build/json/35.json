@@ -1,0 +1,15 @@
+{
+  "name": "The Dev Studio #35",
+  "description": "The Dev Studio is a 10,000 collection of the developers.",
+  "image": "ipfs://NewUriToReplace/35.png",
+  "dna": "0dfe6c0af97e99bf0d5bc39b64f8b28291ae3c20",
+  "edition": 35,
+  "date": 1652285598256,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
