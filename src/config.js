@@ -5,12 +5,12 @@ const { NETWORK } = require(`${basePath}/constants/network.js`);
 const network = NETWORK.matic;
 
 // General metadata for Ethereum
-const namePrefix = "The Coffee Club";
-const description = "The Coffe Club///////////// is a 10,000 collection of the developers.";
+const namePrefix = "The Coffee Dude";
+const description = "The Coffe Dude is a collection of 10,000 NFT.";
 const baseUri = "ipfs://NewUriToReplace";
 
 const solanaMetadata = {
-  symbol: "TDS",
+  symbol: "TCD",
   seller_fee_basis_points: 1000, // Define how much % you want from secondary market sales 1000 = 10%
   external_url: "https://opensea.io/collection/the-dev-studio",
   creators: [
@@ -21,10 +21,9 @@ const solanaMetadata = {
   ],
 };
 
-// If you have selected Solana then the collection starts from 0 automatically
 const layerConfigurations = [
   {
-    growEditionSizeTo: 40,
+    growEditionSizeTo: 30,
     layersOrder: [
       { name: "Background" },
     ],

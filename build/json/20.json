@@ -1,14 +1,14 @@
 {
-  "name": "The Dev Studio #20",
-  "description": "The Dev Studio is a 10,000 collection of the developers.",
+  "name": "The Coffee Club #20",
+  "description": "The Coffe Club///////////// is a 10,000 collection of the developers.",
   "image": "ipfs://NewUriToReplace/20.png",
-  "dna": "919da6a64ceee5764f4815528bcffa475847adcf",
+  "dna": "babd649f14b24ffddeb70ccf3e5ebc276888e36f",
   "edition": 20,
-  "date": 1652285596715,
+  "date": 1653301922430,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Grass Green"
+      "value": "Royal Blue"
     }
   ],
   "compiler": "HashLips Art Engine"
