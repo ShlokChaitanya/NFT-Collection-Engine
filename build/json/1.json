@@ -1,15 +1,15 @@
 {
-  "name": "The Coffee Club #1",
-  "description": "The Coffe Club///////////// is a 10,000 collection of the developers.",
+  "name": "The Coffee Dude #1",
+  "description": "The Coffe Dude is a collection of 10,000 NFT.",
   "image": "ipfs://NewUriToReplace/1.png",
-  "dna": "4f0d8c4f4e1381edd8a54ffac3f051d70c61eedb",
+  "dna": "ea3a9649b649a3e54e396172b556fec88098f92a",
   "edition": 1,
-  "date": 1653301921107,
+  "date": 1653304705642,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Peach"
+      "value": "Light Spring Green"
     }
   ],
-  "compiler": "HashLips Art Engine"
+  "compiler": "NFT Collection Engine"
 }

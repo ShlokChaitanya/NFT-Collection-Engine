@@ -1,452 +1,452 @@
 [
   {
-    "name": "The Coffee Club #1",
-    "description": "The Coffe Club///////////// is a 10,000 collection of the developers.",
+    "name": "The Coffee Dude #1",
+    "description": "The Coffe Dude is a collection of 10,000 NFT.",
     "image": "ipfs://NewUriToReplace/1.png",
-    "dna": "4f0d8c4f4e1381edd8a54ffac3f051d70c61eedb",
-    "edition": 1,
-    "date": 1653301921107,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Peach"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "The Coffee Club #2",
-    "description": "The Coffe Club///////////// is a 10,000 collection of the developers.",
-    "image": "ipfs://NewUriToReplace/2.png",
-    "dna": "9006023ab65a573736a7705953f977309b223e59",
-    "edition": 2,
-    "date": 1653301921168,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Chambray"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "The Coffee Club #3",
-    "description": "The Coffe Club///////////// is a 10,000 collection of the developers.",
-    "image": "ipfs://NewUriToReplace/3.png",
-    "dna": "83a34fbf5b881b4ec7a4107cc499869c9a3a5d4b",
-    "edition": 3,
-    "date": 1653301921244,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Pink Blue"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "The Coffee Club #4",
-    "description": "The Coffe Club///////////// is a 10,000 collection of the developers.",
-    "image": "ipfs://NewUriToReplace/4.png",
-    "dna": "1e4ca3eef704090b1b65db9f00c0eb89e4026d69",
-    "edition": 4,
-    "date": 1653301921291,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Maroon"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "The Coffee Club #5",
-    "description": "The Coffe Club///////////// is a 10,000 collection of the developers.",
-    "image": "ipfs://NewUriToReplace/5.png",
-    "dna": "4f5c724b9c597eeac6b60b3083a04e7c90d1c512",
-    "edition": 5,
-    "date": 1653301921421,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Yellow Geen"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "The Coffee Club #6",
-    "description": "The Coffe Club///////////// is a 10,000 collection of the developers.",
-    "image": "ipfs://NewUriToReplace/6.png",
-    "dna": "8a1927072edc0b714f630d97cacadd2d544cc125",
-    "edition": 6,
-    "date": 1653301921465,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Blizzard Blue"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "The Coffee Club #7",
-    "description": "The Coffe Club///////////// is a 10,000 collection of the developers.",
-    "image": "ipfs://NewUriToReplace/7.png",
-    "dna": "f80961747b66be6dcf317529c36a58e034213a37",
-    "edition": 7,
-    "date": 1653301921507,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Lime "
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "The Coffee Club #8",
-    "description": "The Coffe Club///////////// is a 10,000 collection of the developers.",
-    "image": "ipfs://NewUriToReplace/8.png",
-    "dna": "247d03727a5f476377e523e2cc625f0699ca8f51",
-    "edition": 8,
-    "date": 1653301921591,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Pink Voilet"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "The Coffee Club #9",
-    "description": "The Coffe Club///////////// is a 10,000 collection of the developers.",
-    "image": "ipfs://NewUriToReplace/9.png",
     "dna": "ea3a9649b649a3e54e396172b556fec88098f92a",
-    "edition": 9,
-    "date": 1653301921637,
+    "edition": 1,
+    "date": 1653304705642,
     "attributes": [
       {
         "trait_type": "Background",
         "value": "Light Spring Green"
       }
     ],
-    "compiler": "HashLips Art Engine"
+    "compiler": "NFT Collection Engine"
   },
   {
-    "name": "The Coffee Club #10",
-    "description": "The Coffe Club///////////// is a 10,000 collection of the developers.",
-    "image": "ipfs://NewUriToReplace/10.png",
-    "dna": "fe5680dd6323efc66fc3bc4f14810f3ed5a9d8e7",
-    "edition": 10,
-    "date": 1653301921680,
+    "name": "The Coffee Dude #2",
+    "description": "The Coffe Dude is a collection of 10,000 NFT.",
+    "image": "ipfs://NewUriToReplace/2.png",
+    "dna": "c43e5cf95d70d9ac08933d3d0e987f222f862290",
+    "edition": 2,
+    "date": 1653304705692,
     "attributes": [
       {
         "trait_type": "Background",
-        "value": "Eucalyptus"
+        "value": "Aqua Blue"
       }
     ],
-    "compiler": "HashLips Art Engine"
+    "compiler": "NFT Collection Engine"
   },
   {
-    "name": "The Coffee Club #11",
-    "description": "The Coffe Club///////////// is a 10,000 collection of the developers.",
-    "image": "ipfs://NewUriToReplace/11.png",
+    "name": "The Coffee Dude #3",
+    "description": "The Coffe Dude is a collection of 10,000 NFT.",
+    "image": "ipfs://NewUriToReplace/3.png",
     "dna": "fde4cb97feda6e2ffa6e3382695b3bde4e84a99d",
-    "edition": 11,
-    "date": 1653301921798,
+    "edition": 3,
+    "date": 1653304705816,
     "attributes": [
       {
         "trait_type": "Background",
         "value": "Purple Red"
       }
     ],
-    "compiler": "HashLips Art Engine"
+    "compiler": "NFT Collection Engine"
   },
   {
-    "name": "The Coffee Club #12",
-    "description": "The Coffe Club///////////// is a 10,000 collection of the developers.",
-    "image": "ipfs://NewUriToReplace/12.png",
-    "dna": "055d9d509002b65809099b2e39e578e403301b5e",
-    "edition": 12,
-    "date": 1653301921840,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Raspberry Rose"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "The Coffee Club #13",
-    "description": "The Coffe Club///////////// is a 10,000 collection of the developers.",
-    "image": "ipfs://NewUriToReplace/13.png",
-    "dna": "87733ead96f8d9c935599576f2910eaf5dec97e1",
-    "edition": 13,
-    "date": 1653301921886,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Green"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "The Coffee Club #14",
-    "description": "The Coffe Club///////////// is a 10,000 collection of the developers.",
-    "image": "ipfs://NewUriToReplace/14.png",
-    "dna": "95d7a137394c129415395c6cf623dc9a5243b1d3",
-    "edition": 14,
-    "date": 1653301922010,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Pink Purple"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "The Coffee Club #15",
-    "description": "The Coffe Club///////////// is a 10,000 collection of the developers.",
-    "image": "ipfs://NewUriToReplace/15.png",
-    "dna": "07ead5315803e8cbc371f0ac61363b97fda7399e",
-    "edition": 15,
-    "date": 1653301922054,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Pink"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "The Coffee Club #16",
-    "description": "The Coffe Club///////////// is a 10,000 collection of the developers.",
-    "image": "ipfs://NewUriToReplace/16.png",
-    "dna": "231745146bc7d94e2719f73b1c278389a7e57ea3",
-    "edition": 16,
-    "date": 1653301922139,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Red Pink"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "The Coffee Club #17",
-    "description": "The Coffe Club///////////// is a 10,000 collection of the developers.",
-    "image": "ipfs://NewUriToReplace/17.png",
-    "dna": "c440ce99df182dd31053b9fcbe415e1f6e31aa54",
-    "edition": 17,
-    "date": 1653301922285,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Green Blue"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "The Coffee Club #18",
-    "description": "The Coffe Club///////////// is a 10,000 collection of the developers.",
-    "image": "ipfs://NewUriToReplace/18.png",
-    "dna": "9c198c96fcc2df6683944ecd53c583f78ece4f3d",
-    "edition": 18,
-    "date": 1653301922326,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Wasabi"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "The Coffee Club #19",
-    "description": "The Coffe Club///////////// is a 10,000 collection of the developers.",
-    "image": "ipfs://NewUriToReplace/19.png",
-    "dna": "b5f6fe9a306518b6eb10232e2a9be12d7d780a7c",
-    "edition": 19,
-    "date": 1653301922381,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Mountain Meadow"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "The Coffee Club #20",
-    "description": "The Coffe Club///////////// is a 10,000 collection of the developers.",
-    "image": "ipfs://NewUriToReplace/20.png",
-    "dna": "babd649f14b24ffddeb70ccf3e5ebc276888e36f",
-    "edition": 20,
-    "date": 1653301922430,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Royal Blue"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "The Coffee Club #21",
-    "description": "The Coffe Club///////////// is a 10,000 collection of the developers.",
-    "image": "ipfs://NewUriToReplace/21.png",
-    "dna": "0a4d638ac27b2e439b4c5eb7abd3ef1c4a506435",
-    "edition": 21,
-    "date": 1653301922479,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Yellow"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "The Coffee Club #22",
-    "description": "The Coffe Club///////////// is a 10,000 collection of the developers.",
-    "image": "ipfs://NewUriToReplace/22.png",
-    "dna": "f12fd5a57dc9e03f825be08b26e968c588db1fff",
-    "edition": 22,
-    "date": 1653301922532,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Sinnabar"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "The Coffee Club #23",
-    "description": "The Coffe Club///////////// is a 10,000 collection of the developers.",
-    "image": "ipfs://NewUriToReplace/23.png",
-    "dna": "f85ac1e213a351009855d24f43fd213216ef2388",
-    "edition": 23,
-    "date": 1653301922576,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Sun Shade"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "The Coffee Club #24",
-    "description": "The Coffe Club///////////// is a 10,000 collection of the developers.",
-    "image": "ipfs://NewUriToReplace/24.png",
-    "dna": "919da6a64ceee5764f4815528bcffa475847adcf",
-    "edition": 24,
-    "date": 1653301922629,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Grass Green"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "The Coffee Club #25",
-    "description": "The Coffe Club///////////// is a 10,000 collection of the developers.",
-    "image": "ipfs://NewUriToReplace/25.png",
-    "dna": "840f968c375374d6b76d129217d6357ea8e51c08",
-    "edition": 25,
-    "date": 1653301922671,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Dark Blue"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "The Coffee Club #26",
-    "description": "The Coffe Club///////////// is a 10,000 collection of the developers.",
-    "image": "ipfs://NewUriToReplace/26.png",
+    "name": "The Coffee Dude #4",
+    "description": "The Coffe Dude is a collection of 10,000 NFT.",
+    "image": "ipfs://NewUriToReplace/4.png",
     "dna": "5653d7d58025e9179be1f3f940b054288bc1674e",
-    "edition": 26,
-    "date": 1653301922726,
+    "edition": 4,
+    "date": 1653304705933,
     "attributes": [
       {
         "trait_type": "Background",
         "value": "Turquoise  Blue"
       }
     ],
-    "compiler": "HashLips Art Engine"
+    "compiler": "NFT Collection Engine"
   },
   {
-    "name": "The Coffee Club #27",
-    "description": "The Coffe Club///////////// is a 10,000 collection of the developers.",
-    "image": "ipfs://NewUriToReplace/27.png",
+    "name": "The Coffee Dude #5",
+    "description": "The Coffe Dude is a collection of 10,000 NFT.",
+    "image": "ipfs://NewUriToReplace/5.png",
+    "dna": "247d03727a5f476377e523e2cc625f0699ca8f51",
+    "edition": 5,
+    "date": 1653304706067,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink Voilet"
+      }
+    ],
+    "compiler": "NFT Collection Engine"
+  },
+  {
+    "name": "The Coffee Dude #6",
+    "description": "The Coffe Dude is a collection of 10,000 NFT.",
+    "image": "ipfs://NewUriToReplace/6.png",
+    "dna": "055d9d509002b65809099b2e39e578e403301b5e",
+    "edition": 6,
+    "date": 1653304706117,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Raspberry Rose"
+      }
+    ],
+    "compiler": "NFT Collection Engine"
+  },
+  {
+    "name": "The Coffee Dude #7",
+    "description": "The Coffe Dude is a collection of 10,000 NFT.",
+    "image": "ipfs://NewUriToReplace/7.png",
     "dna": "3e738d9c1f5fcd225e2ce14113e9dc4ca7a003e6",
-    "edition": 27,
-    "date": 1653301922772,
+    "edition": 7,
+    "date": 1653304706170,
     "attributes": [
       {
         "trait_type": "Background",
         "value": "vivid violet"
       }
     ],
-    "compiler": "HashLips Art Engine"
+    "compiler": "NFT Collection Engine"
   },
   {
-    "name": "The Coffee Club #28",
-    "description": "The Coffe Club///////////// is a 10,000 collection of the developers.",
-    "image": "ipfs://NewUriToReplace/28.png",
-    "dna": "e3efa2ed92b37c5890068b502600ec1061475e86",
-    "edition": 28,
-    "date": 1653301922838,
+    "name": "The Coffee Dude #8",
+    "description": "The Coffe Dude is a collection of 10,000 NFT.",
+    "image": "ipfs://NewUriToReplace/8.png",
+    "dna": "f86cd6d3d62700c73a2887af517a02efabe30bd9",
+    "edition": 8,
+    "date": 1653304706225,
     "attributes": [
       {
         "trait_type": "Background",
-        "value": "Gray"
+        "value": "Dark turquoise "
       }
     ],
-    "compiler": "HashLips Art Engine"
+    "compiler": "NFT Collection Engine"
   },
   {
-    "name": "The Coffee Club #29",
-    "description": "The Coffe Club///////////// is a 10,000 collection of the developers.",
-    "image": "ipfs://NewUriToReplace/29.png",
+    "name": "The Coffee Dude #9",
+    "description": "The Coffe Dude is a collection of 10,000 NFT.",
+    "image": "ipfs://NewUriToReplace/9.png",
+    "dna": "83a34fbf5b881b4ec7a4107cc499869c9a3a5d4b",
+    "edition": 9,
+    "date": 1653304706329,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink Blue"
+      }
+    ],
+    "compiler": "NFT Collection Engine"
+  },
+  {
+    "name": "The Coffee Dude #10",
+    "description": "The Coffe Dude is a collection of 10,000 NFT.",
+    "image": "ipfs://NewUriToReplace/10.png",
+    "dna": "b5f6fe9a306518b6eb10232e2a9be12d7d780a7c",
+    "edition": 10,
+    "date": 1653304706388,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Mountain Meadow"
+      }
+    ],
+    "compiler": "NFT Collection Engine"
+  },
+  {
+    "name": "The Coffee Dude #11",
+    "description": "The Coffe Dude is a collection of 10,000 NFT.",
+    "image": "ipfs://NewUriToReplace/11.png",
+    "dna": "0a4d638ac27b2e439b4c5eb7abd3ef1c4a506435",
+    "edition": 11,
+    "date": 1653304706444,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Yellow"
+      }
+    ],
+    "compiler": "NFT Collection Engine"
+  },
+  {
+    "name": "The Coffee Dude #12",
+    "description": "The Coffe Dude is a collection of 10,000 NFT.",
+    "image": "ipfs://NewUriToReplace/12.png",
+    "dna": "1e4ca3eef704090b1b65db9f00c0eb89e4026d69",
+    "edition": 12,
+    "date": 1653304706496,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Maroon"
+      }
+    ],
+    "compiler": "NFT Collection Engine"
+  },
+  {
+    "name": "The Coffee Dude #13",
+    "description": "The Coffe Dude is a collection of 10,000 NFT.",
+    "image": "ipfs://NewUriToReplace/13.png",
+    "dna": "87733ead96f8d9c935599576f2910eaf5dec97e1",
+    "edition": 13,
+    "date": 1653304706554,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green"
+      }
+    ],
+    "compiler": "NFT Collection Engine"
+  },
+  {
+    "name": "The Coffee Dude #14",
+    "description": "The Coffe Dude is a collection of 10,000 NFT.",
+    "image": "ipfs://NewUriToReplace/14.png",
+    "dna": "840f968c375374d6b76d129217d6357ea8e51c08",
+    "edition": 14,
+    "date": 1653304706616,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Dark Blue"
+      }
+    ],
+    "compiler": "NFT Collection Engine"
+  },
+  {
+    "name": "The Coffee Dude #15",
+    "description": "The Coffe Dude is a collection of 10,000 NFT.",
+    "image": "ipfs://NewUriToReplace/15.png",
+    "dna": "f12fd5a57dc9e03f825be08b26e968c588db1fff",
+    "edition": 15,
+    "date": 1653304706673,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Sinnabar"
+      }
+    ],
+    "compiler": "NFT Collection Engine"
+  },
+  {
+    "name": "The Coffee Dude #16",
+    "description": "The Coffe Dude is a collection of 10,000 NFT.",
+    "image": "ipfs://NewUriToReplace/16.png",
+    "dna": "231745146bc7d94e2719f73b1c278389a7e57ea3",
+    "edition": 16,
+    "date": 1653304706762,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red Pink"
+      }
+    ],
+    "compiler": "NFT Collection Engine"
+  },
+  {
+    "name": "The Coffee Dude #17",
+    "description": "The Coffe Dude is a collection of 10,000 NFT.",
+    "image": "ipfs://NewUriToReplace/17.png",
+    "dna": "919da6a64ceee5764f4815528bcffa475847adcf",
+    "edition": 17,
+    "date": 1653304706813,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Grass Green"
+      }
+    ],
+    "compiler": "NFT Collection Engine"
+  },
+  {
+    "name": "The Coffee Dude #18",
+    "description": "The Coffe Dude is a collection of 10,000 NFT.",
+    "image": "ipfs://NewUriToReplace/18.png",
+    "dna": "4f5c724b9c597eeac6b60b3083a04e7c90d1c512",
+    "edition": 18,
+    "date": 1653304706952,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Yellow Geen"
+      }
+    ],
+    "compiler": "NFT Collection Engine"
+  },
+  {
+    "name": "The Coffee Dude #19",
+    "description": "The Coffe Dude is a collection of 10,000 NFT.",
+    "image": "ipfs://NewUriToReplace/19.png",
+    "dna": "07ead5315803e8cbc371f0ac61363b97fda7399e",
+    "edition": 19,
+    "date": 1653304707000,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      }
+    ],
+    "compiler": "NFT Collection Engine"
+  },
+  {
+    "name": "The Coffee Dude #20",
+    "description": "The Coffe Dude is a collection of 10,000 NFT.",
+    "image": "ipfs://NewUriToReplace/20.png",
+    "dna": "fe5680dd6323efc66fc3bc4f14810f3ed5a9d8e7",
+    "edition": 20,
+    "date": 1653304707052,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Eucalyptus"
+      }
+    ],
+    "compiler": "NFT Collection Engine"
+  },
+  {
+    "name": "The Coffee Dude #21",
+    "description": "The Coffe Dude is a collection of 10,000 NFT.",
+    "image": "ipfs://NewUriToReplace/21.png",
     "dna": "6df744b1ab2057a8eabf9b036a19e2769f30c9dd",
-    "edition": 29,
-    "date": 1653301922943,
+    "edition": 21,
+    "date": 1653304707176,
     "attributes": [
       {
         "trait_type": "Background",
         "value": "Purple Blue"
       }
     ],
-    "compiler": "HashLips Art Engine"
+    "compiler": "NFT Collection Engine"
   },
   {
-    "name": "The Coffee Club #30",
-    "description": "The Coffe Club///////////// is a 10,000 collection of the developers.",
-    "image": "ipfs://NewUriToReplace/30.png",
-    "dna": "ca29dd1ea07b4359f0382d225d628a9341a25618",
-    "edition": 30,
-    "date": 1653301922998,
+    "name": "The Coffee Dude #22",
+    "description": "The Coffe Dude is a collection of 10,000 NFT.",
+    "image": "ipfs://NewUriToReplace/22.png",
+    "dna": "9c198c96fcc2df6683944ecd53c583f78ece4f3d",
+    "edition": 22,
+    "date": 1653304707231,
     "attributes": [
       {
         "trait_type": "Background",
-        "value": "Light Blue"
+        "value": "Wasabi"
       }
     ],
-    "compiler": "HashLips Art Engine"
+    "compiler": "NFT Collection Engine"
+  },
+  {
+    "name": "The Coffee Dude #23",
+    "description": "The Coffe Dude is a collection of 10,000 NFT.",
+    "image": "ipfs://NewUriToReplace/23.png",
+    "dna": "e3efa2ed92b37c5890068b502600ec1061475e86",
+    "edition": 23,
+    "date": 1653304707293,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Gray"
+      }
+    ],
+    "compiler": "NFT Collection Engine"
+  },
+  {
+    "name": "The Coffee Dude #24",
+    "description": "The Coffe Dude is a collection of 10,000 NFT.",
+    "image": "ipfs://NewUriToReplace/24.png",
+    "dna": "95d7a137394c129415395c6cf623dc9a5243b1d3",
+    "edition": 24,
+    "date": 1653304707440,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink Purple"
+      }
+    ],
+    "compiler": "NFT Collection Engine"
+  },
+  {
+    "name": "The Coffee Dude #25",
+    "description": "The Coffe Dude is a collection of 10,000 NFT.",
+    "image": "ipfs://NewUriToReplace/25.png",
+    "dna": "f85ac1e213a351009855d24f43fd213216ef2388",
+    "edition": 25,
+    "date": 1653304707487,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Sun Shade"
+      }
+    ],
+    "compiler": "NFT Collection Engine"
+  },
+  {
+    "name": "The Coffee Dude #26",
+    "description": "The Coffe Dude is a collection of 10,000 NFT.",
+    "image": "ipfs://NewUriToReplace/26.png",
+    "dna": "4f0d8c4f4e1381edd8a54ffac3f051d70c61eedb",
+    "edition": 26,
+    "date": 1653304707543,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Peach"
+      }
+    ],
+    "compiler": "NFT Collection Engine"
+  },
+  {
+    "name": "The Coffee Dude #27",
+    "description": "The Coffe Dude is a collection of 10,000 NFT.",
+    "image": "ipfs://NewUriToReplace/27.png",
+    "dna": "1ac38319b1746570273999e9776930e6810ec3fe",
+    "edition": 27,
+    "date": 1653304707601,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Quick Silver"
+      }
+    ],
+    "compiler": "NFT Collection Engine"
+  },
+  {
+    "name": "The Coffee Dude #28",
+    "description": "The Coffe Dude is a collection of 10,000 NFT.",
+    "image": "ipfs://NewUriToReplace/28.png",
+    "dna": "8a1927072edc0b714f630d97cacadd2d544cc125",
+    "edition": 28,
+    "date": 1653304707660,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blizzard Blue"
+      }
+    ],
+    "compiler": "NFT Collection Engine"
+  },
+  {
+    "name": "The Coffee Dude #29",
+    "description": "The Coffe Dude is a collection of 10,000 NFT.",
+    "image": "ipfs://NewUriToReplace/29.png",
+    "dna": "9006023ab65a573736a7705953f977309b223e59",
+    "edition": 29,
+    "date": 1653304707718,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Chambray"
+      }
+    ],
+    "compiler": "NFT Collection Engine"
+  },
+  {
+    "name": "The Coffee Dude #30",
+    "description": "The Coffe Dude is a collection of 10,000 NFT.",
+    "image": "ipfs://NewUriToReplace/30.png",
+    "dna": "38139608df47549902ed6f9df175e45d06cb234c",
+    "edition": 30,
+    "date": 1653304707777,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Gray"
+      }
+    ],
+    "compiler": "NFT Collection Engine"
   }
 ]
