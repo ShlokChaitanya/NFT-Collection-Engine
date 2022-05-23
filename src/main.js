@@ -3,7 +3,7 @@ const { NETWORK } = require(`${basePath}/constants/network.js`);
 const fs = require("fs");
 const sha1 = require(`${basePath}/node_modules/sha1`);
 const { createCanvas, loadImage } = require(`${basePath}/node_modules/canvas`);
-const buildDir = `${basePath}/build`;
+const buildDir = `${basePath}/Generated`;
 const layersDir = `${basePath}/layers`;
 const {
   format,

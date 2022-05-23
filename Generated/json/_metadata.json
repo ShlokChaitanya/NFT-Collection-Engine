@@ -1,0 +1,452 @@
+[
+  {
+    "name": "The Coffee Dude #1",
+    "description": "The Coffe Dude is a collection of 10,000 NFT.",
+    "image": "ipfs://NewUriToReplace/1.png",
+    "dna": "07ead5315803e8cbc371f0ac61363b97fda7399e",
+    "edition": 1,
+    "date": 1653306646156,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      }
+    ],
+    "compiler": "NFT Collection Engine"
+  },
+  {
+    "name": "The Coffee Dude #2",
+    "description": "The Coffe Dude is a collection of 10,000 NFT.",
+    "image": "ipfs://NewUriToReplace/2.png",
+    "dna": "231745146bc7d94e2719f73b1c278389a7e57ea3",
+    "edition": 2,
+    "date": 1653306646252,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red Pink"
+      }
+    ],
+    "compiler": "NFT Collection Engine"
+  },
+  {
+    "name": "The Coffee Dude #3",
+    "description": "The Coffe Dude is a collection of 10,000 NFT.",
+    "image": "ipfs://NewUriToReplace/3.png",
+    "dna": "b5f6fe9a306518b6eb10232e2a9be12d7d780a7c",
+    "edition": 3,
+    "date": 1653306646304,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Mountain Meadow"
+      }
+    ],
+    "compiler": "NFT Collection Engine"
+  },
+  {
+    "name": "The Coffee Dude #4",
+    "description": "The Coffe Dude is a collection of 10,000 NFT.",
+    "image": "ipfs://NewUriToReplace/4.png",
+    "dna": "83a34fbf5b881b4ec7a4107cc499869c9a3a5d4b",
+    "edition": 4,
+    "date": 1653306646381,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink Blue"
+      }
+    ],
+    "compiler": "NFT Collection Engine"
+  },
+  {
+    "name": "The Coffee Dude #5",
+    "description": "The Coffe Dude is a collection of 10,000 NFT.",
+    "image": "ipfs://NewUriToReplace/5.png",
+    "dna": "38139608df47549902ed6f9df175e45d06cb234c",
+    "edition": 5,
+    "date": 1653306646432,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Gray"
+      }
+    ],
+    "compiler": "NFT Collection Engine"
+  },
+  {
+    "name": "The Coffee Dude #6",
+    "description": "The Coffe Dude is a collection of 10,000 NFT.",
+    "image": "ipfs://NewUriToReplace/6.png",
+    "dna": "fde4cb97feda6e2ffa6e3382695b3bde4e84a99d",
+    "edition": 6,
+    "date": 1653306646631,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Purple Red"
+      }
+    ],
+    "compiler": "NFT Collection Engine"
+  },
+  {
+    "name": "The Coffee Dude #7",
+    "description": "The Coffe Dude is a collection of 10,000 NFT.",
+    "image": "ipfs://NewUriToReplace/7.png",
+    "dna": "1ac38319b1746570273999e9776930e6810ec3fe",
+    "edition": 7,
+    "date": 1653306646715,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Quick Silver"
+      }
+    ],
+    "compiler": "NFT Collection Engine"
+  },
+  {
+    "name": "The Coffee Dude #8",
+    "description": "The Coffe Dude is a collection of 10,000 NFT.",
+    "image": "ipfs://NewUriToReplace/8.png",
+    "dna": "8a1927072edc0b714f630d97cacadd2d544cc125",
+    "edition": 8,
+    "date": 1653306646825,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blizzard Blue"
+      }
+    ],
+    "compiler": "NFT Collection Engine"
+  },
+  {
+    "name": "The Coffee Dude #9",
+    "description": "The Coffe Dude is a collection of 10,000 NFT.",
+    "image": "ipfs://NewUriToReplace/9.png",
+    "dna": "9c198c96fcc2df6683944ecd53c583f78ece4f3d",
+    "edition": 9,
+    "date": 1653306646879,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Wasabi"
+      }
+    ],
+    "compiler": "NFT Collection Engine"
+  },
+  {
+    "name": "The Coffee Dude #10",
+    "description": "The Coffe Dude is a collection of 10,000 NFT.",
+    "image": "ipfs://NewUriToReplace/10.png",
+    "dna": "840f968c375374d6b76d129217d6357ea8e51c08",
+    "edition": 10,
+    "date": 1653306646934,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Dark Blue"
+      }
+    ],
+    "compiler": "NFT Collection Engine"
+  },
+  {
+    "name": "The Coffee Dude #11",
+    "description": "The Coffe Dude is a collection of 10,000 NFT.",
+    "image": "ipfs://NewUriToReplace/11.png",
+    "dna": "919da6a64ceee5764f4815528bcffa475847adcf",
+    "edition": 11,
+    "date": 1653306646989,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Grass Green"
+      }
+    ],
+    "compiler": "NFT Collection Engine"
+  },
+  {
+    "name": "The Coffee Dude #12",
+    "description": "The Coffe Dude is a collection of 10,000 NFT.",
+    "image": "ipfs://NewUriToReplace/12.png",
+    "dna": "1e4ca3eef704090b1b65db9f00c0eb89e4026d69",
+    "edition": 12,
+    "date": 1653306647049,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Maroon"
+      }
+    ],
+    "compiler": "NFT Collection Engine"
+  },
+  {
+    "name": "The Coffee Dude #13",
+    "description": "The Coffe Dude is a collection of 10,000 NFT.",
+    "image": "ipfs://NewUriToReplace/13.png",
+    "dna": "6df744b1ab2057a8eabf9b036a19e2769f30c9dd",
+    "edition": 13,
+    "date": 1653306647190,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Purple Blue"
+      }
+    ],
+    "compiler": "NFT Collection Engine"
+  },
+  {
+    "name": "The Coffee Dude #14",
+    "description": "The Coffe Dude is a collection of 10,000 NFT.",
+    "image": "ipfs://NewUriToReplace/14.png",
+    "dna": "0a4d638ac27b2e439b4c5eb7abd3ef1c4a506435",
+    "edition": 14,
+    "date": 1653306647245,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Yellow"
+      }
+    ],
+    "compiler": "NFT Collection Engine"
+  },
+  {
+    "name": "The Coffee Dude #15",
+    "description": "The Coffe Dude is a collection of 10,000 NFT.",
+    "image": "ipfs://NewUriToReplace/15.png",
+    "dna": "fe5680dd6323efc66fc3bc4f14810f3ed5a9d8e7",
+    "edition": 15,
+    "date": 1653306647306,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Eucalyptus"
+      }
+    ],
+    "compiler": "NFT Collection Engine"
+  },
+  {
+    "name": "The Coffee Dude #16",
+    "description": "The Coffe Dude is a collection of 10,000 NFT.",
+    "image": "ipfs://NewUriToReplace/16.png",
+    "dna": "f80961747b66be6dcf317529c36a58e034213a37",
+    "edition": 16,
+    "date": 1653306647370,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Lime "
+      }
+    ],
+    "compiler": "NFT Collection Engine"
+  },
+  {
+    "name": "The Coffee Dude #17",
+    "description": "The Coffe Dude is a collection of 10,000 NFT.",
+    "image": "ipfs://NewUriToReplace/17.png",
+    "dna": "3e738d9c1f5fcd225e2ce14113e9dc4ca7a003e6",
+    "edition": 17,
+    "date": 1653306647437,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "vivid violet"
+      }
+    ],
+    "compiler": "NFT Collection Engine"
+  },
+  {
+    "name": "The Coffee Dude #18",
+    "description": "The Coffe Dude is a collection of 10,000 NFT.",
+    "image": "ipfs://NewUriToReplace/18.png",
+    "dna": "ea3a9649b649a3e54e396172b556fec88098f92a",
+    "edition": 18,
+    "date": 1653306647515,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Spring Green"
+      }
+    ],
+    "compiler": "NFT Collection Engine"
+  },
+  {
+    "name": "The Coffee Dude #19",
+    "description": "The Coffe Dude is a collection of 10,000 NFT.",
+    "image": "ipfs://NewUriToReplace/19.png",
+    "dna": "4f5c724b9c597eeac6b60b3083a04e7c90d1c512",
+    "edition": 19,
+    "date": 1653306647684,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Yellow Geen"
+      }
+    ],
+    "compiler": "NFT Collection Engine"
+  },
+  {
+    "name": "The Coffee Dude #20",
+    "description": "The Coffe Dude is a collection of 10,000 NFT.",
+    "image": "ipfs://NewUriToReplace/20.png",
+    "dna": "95d7a137394c129415395c6cf623dc9a5243b1d3",
+    "edition": 20,
+    "date": 1653306647836,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink Purple"
+      }
+    ],
+    "compiler": "NFT Collection Engine"
+  },
+  {
+    "name": "The Coffee Dude #21",
+    "description": "The Coffe Dude is a collection of 10,000 NFT.",
+    "image": "ipfs://NewUriToReplace/21.png",
+    "dna": "247d03727a5f476377e523e2cc625f0699ca8f51",
+    "edition": 21,
+    "date": 1653306647934,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink Voilet"
+      }
+    ],
+    "compiler": "NFT Collection Engine"
+  },
+  {
+    "name": "The Coffee Dude #22",
+    "description": "The Coffe Dude is a collection of 10,000 NFT.",
+    "image": "ipfs://NewUriToReplace/22.png",
+    "dna": "f12fd5a57dc9e03f825be08b26e968c588db1fff",
+    "edition": 22,
+    "date": 1653306647985,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Sinnabar"
+      }
+    ],
+    "compiler": "NFT Collection Engine"
+  },
+  {
+    "name": "The Coffee Dude #23",
+    "description": "The Coffe Dude is a collection of 10,000 NFT.",
+    "image": "ipfs://NewUriToReplace/23.png",
+    "dna": "4f0d8c4f4e1381edd8a54ffac3f051d70c61eedb",
+    "edition": 23,
+    "date": 1653306648049,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Peach"
+      }
+    ],
+    "compiler": "NFT Collection Engine"
+  },
+  {
+    "name": "The Coffee Dude #24",
+    "description": "The Coffe Dude is a collection of 10,000 NFT.",
+    "image": "ipfs://NewUriToReplace/24.png",
+    "dna": "c440ce99df182dd31053b9fcbe415e1f6e31aa54",
+    "edition": 24,
+    "date": 1653306648180,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green Blue"
+      }
+    ],
+    "compiler": "NFT Collection Engine"
+  },
+  {
+    "name": "The Coffee Dude #25",
+    "description": "The Coffe Dude is a collection of 10,000 NFT.",
+    "image": "ipfs://NewUriToReplace/25.png",
+    "dna": "9006023ab65a573736a7705953f977309b223e59",
+    "edition": 25,
+    "date": 1653306648235,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Chambray"
+      }
+    ],
+    "compiler": "NFT Collection Engine"
+  },
+  {
+    "name": "The Coffee Dude #26",
+    "description": "The Coffe Dude is a collection of 10,000 NFT.",
+    "image": "ipfs://NewUriToReplace/26.png",
+    "dna": "055d9d509002b65809099b2e39e578e403301b5e",
+    "edition": 26,
+    "date": 1653306648297,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Raspberry Rose"
+      }
+    ],
+    "compiler": "NFT Collection Engine"
+  },
+  {
+    "name": "The Coffee Dude #27",
+    "description": "The Coffe Dude is a collection of 10,000 NFT.",
+    "image": "ipfs://NewUriToReplace/27.png",
+    "dna": "5653d7d58025e9179be1f3f940b054288bc1674e",
+    "edition": 27,
+    "date": 1653306648356,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Turquoise  Blue"
+      }
+    ],
+    "compiler": "NFT Collection Engine"
+  },
+  {
+    "name": "The Coffee Dude #28",
+    "description": "The Coffe Dude is a collection of 10,000 NFT.",
+    "image": "ipfs://NewUriToReplace/28.png",
+    "dna": "ca29dd1ea07b4359f0382d225d628a9341a25618",
+    "edition": 28,
+    "date": 1653306648426,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue"
+      }
+    ],
+    "compiler": "NFT Collection Engine"
+  },
+  {
+    "name": "The Coffee Dude #29",
+    "description": "The Coffe Dude is a collection of 10,000 NFT.",
+    "image": "ipfs://NewUriToReplace/29.png",
+    "dna": "babd649f14b24ffddeb70ccf3e5ebc276888e36f",
+    "edition": 29,
+    "date": 1653306648491,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Royal Blue"
+      }
+    ],
+    "compiler": "NFT Collection Engine"
+  },
+  {
+    "name": "The Coffee Dude #30",
+    "description": "The Coffe Dude is a collection of 10,000 NFT.",
+    "image": "ipfs://NewUriToReplace/30.png",
+    "dna": "87733ead96f8d9c935599576f2910eaf5dec97e1",
+    "edition": 30,
+    "date": 1653306648578,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green"
+      }
+    ],
+    "compiler": "NFT Collection Engine"
+  }
+]

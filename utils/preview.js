@@ -1,12 +1,12 @@
 const basePath = process.cwd();
 const fs = require("fs");
 const { createCanvas, loadImage } = require("canvas");
-const buildDir = `${basePath}/build`;
+const buildDir = `${basePath}/Generated`;
 
 const { preview } = require(`${basePath}/src/config.js`);
 
 // read json data
-const rawdata = fs.readFileSync(`${basePath}/build/json/_metadata.json`);
+const rawdata = fs.readFileSync(`${basePath}/Generated/json/_metadata.json`);
 const metadataList = JSON.parse(rawdata);
 
 const saveProjectPreviewImage = async (_data) => {

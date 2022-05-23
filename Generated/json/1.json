@@ -1,0 +1,15 @@
+{
+  "name": "The Coffee Dude #1",
+  "description": "The Coffe Dude is a collection of 10,000 NFT.",
+  "image": "ipfs://NewUriToReplace/1.png",
+  "dna": "07ead5315803e8cbc371f0ac61363b97fda7399e",
+  "edition": 1,
+  "date": 1653306646156,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    }
+  ],
+  "compiler": "NFT Collection Engine"
+}
