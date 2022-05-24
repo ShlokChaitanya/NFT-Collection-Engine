@@ -5,17 +5,17 @@ const { NETWORK } = require(`${basePath}/constants/network.js`);
 const network = NETWORK.matic;
 
 // General metadata for Ethereum
-const namePrefix = "The Coffee Dude";
-const description = "The Coffe Dude is a collection of 10,000 NFT.";
-const baseUri = "ipfs://NewUriToReplace";
+const namePrefix = process.env.namePrefix;
+const description = process.env.description;
+const baseUri = process.env.baseUri;
 
 const solanaMetadata = {
-  symbol: "TCD",
+  symbol: process.env.symbol,
   seller_fee_basis_points: 1000, // Define how much % you want from secondary market sales 1000 = 10%
   external_url: "https://opensea.io/collection/the-dev-studio",
   creators: [
     {
-      address: "0xC1a3127A632B49f5a0A5c48eBE0971a115b2bc54",
+      address: process.env.caddress,
       share: 100,
     },
   ],
