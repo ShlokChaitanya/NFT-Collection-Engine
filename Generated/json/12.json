@@ -2,13 +2,13 @@
   "name": "The Coffee Dude #12",
   "description": "The Coffe Dude is a collection of 10,000 NFT.",
   "image": "ipfs://NewUriToReplace/12.png",
-  "dna": "1e4ca3eef704090b1b65db9f00c0eb89e4026d69",
+  "dna": "b5f6fe9a306518b6eb10232e2a9be12d7d780a7c",
   "edition": 12,
-  "date": 1653306647049,
+  "date": 1653468020382,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Maroon"
+      "value": "Mountain Meadow"
     }
   ],
   "compiler": "NFT Collection Engine"

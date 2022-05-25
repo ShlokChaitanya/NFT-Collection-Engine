@@ -1,21 +1,22 @@
 const basePath = process.cwd();
 const { MODE } = require(`${basePath}/constants/blend_mode.js`);
 const { NETWORK } = require(`${basePath}/constants/network.js`);
+const data = require("../config.json");
 
 const network = NETWORK.matic;
 
 // General metadata for Ethereum
-const namePrefix = process.env.namePrefix;
-const description = process.env.description;
-const baseUri = process.env.baseUri;
+const namePrefix = data.NAMEPREFIX;
+const description = data.DESCRIPTION;
+const baseUri = data.BASEURI;
 
 const solanaMetadata = {
-  symbol: process.env.symbol,
+  symbol: data.symbol,
   seller_fee_basis_points: 1000, // Define how much % you want from secondary market sales 1000 = 10%
-  external_url: "https://opensea.io/collection/the-dev-studio",
+  external_url: data.url,
   creators: [
     {
-      address: process.env.caddress,
+      address: data.CADDRESS,
       share: 100,
     },
   ],
@@ -23,10 +24,8 @@ const solanaMetadata = {
 
 const layerConfigurations = [
   {
-    growEditionSizeTo: 30,
-    layersOrder: [
-      { name: "Background" },
-    ],
+    growEditionSizeTo: data.nft_amount,
+    layersOrder: [data.layer_order],
   },
 ];
 

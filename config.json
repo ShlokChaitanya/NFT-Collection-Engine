@@ -1,0 +1,12 @@
+{
+    "NAMEPREFIX" :"The Coffee Dude",
+    "DESCRIPTION" :"The Coffe Dude is a collection of 10,000 NFT.",
+    "BASEURI" :"ipfs://NewUriToReplace",
+    "SYMBOL" :"TCD",
+    "CADDRESS" :"0xC1a3127A632B49f5a0A5c48eBE0971a115b2bc54",
+    "url" :"Enter your nft url",
+    "nft_amount": 20,
+    "layer_order": { 
+        "name": "Background" 
+    }
+}
