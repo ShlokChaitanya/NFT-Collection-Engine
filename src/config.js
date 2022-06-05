@@ -12,7 +12,7 @@ const baseUri = data.BASEURI;
 
 const solanaMetadata = {
   symbol: data.symbol,
-  seller_fee_basis_points: 1000, // Define how much % you want from secondary market sales 1000 = 10%
+  seller_fee_basis_points: 1000,
   external_url: data.url,
   creators: [
     {
